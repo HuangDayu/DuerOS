@@ -1,10 +1,13 @@
-# MyDuerOS-PythonDcsSdk-RaspberryClient
+# MyDuerOS
+
+Baidu DuerOS DCS Python SDK For RespberryPi Client
 
 # 项目源码
 [DuerOS-Python-Client](https://github.com/MyDuerOS/DuerOS-Python-Client)  
 
 # 项目作者
 百度刘才权  
+[GitHub主页](https://github.com/caiquanliu)   
 [简书主页](https://www.jianshu.com/u/bf03aa158e75)  
 [博客主页](https://caiquanliu.github.io/)  
 

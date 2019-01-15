@@ -1,4 +1,4 @@
-# MyDuerOS
+# DuerOS
 
 Baidu DuerOS DCS Python SDK For RespberryPi Client
 
